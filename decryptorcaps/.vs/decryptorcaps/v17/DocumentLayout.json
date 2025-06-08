@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\walker.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|solutionrelative:decryptorcaps\\walker.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\main_decryptor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|solutionrelative:decryptorcaps\\main_decryptor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\decryptor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|solutionrelative:decryptorcaps\\decryptor.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\decryptor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|solutionrelative:decryptorcaps\\decryptor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\walker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDD18490-1009-4598-BF0D-496B654312A7}|decryptorcaps\\decryptorcaps.vcxproj|solutionrelative:decryptorcaps\\walker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main_decryptor.c",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\main_decryptor.c",
+              "RelativeDocumentMoniker": "decryptorcaps\\main_decryptor.c",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\main_decryptor.c",
+              "RelativeToolTip": "decryptorcaps\\main_decryptor.c",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAowPkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-12T08:28:53.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "decryptor.c",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\decryptor.c",
+              "RelativeDocumentMoniker": "decryptorcaps\\decryptor.c",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\decryptor.c",
+              "RelativeToolTip": "decryptorcaps\\decryptor.c",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-12T08:28:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "decryptor.h",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\decryptor.h",
+              "RelativeDocumentMoniker": "decryptorcaps\\decryptor.h",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\decryptor.h",
+              "RelativeToolTip": "decryptorcaps\\decryptor.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T08:28:36.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "walker.c",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\walker.c",
+              "RelativeDocumentMoniker": "decryptorcaps\\walker.c",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\walker.c",
+              "RelativeToolTip": "decryptorcaps\\walker.c",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-12T08:22:26.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "walker.h",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\walker.h",
+              "RelativeDocumentMoniker": "decryptorcaps\\walker.h",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\decryptorcaps\\decryptorcaps\\walker.h",
+              "RelativeToolTip": "decryptorcaps\\walker.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-12T08:24:34.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

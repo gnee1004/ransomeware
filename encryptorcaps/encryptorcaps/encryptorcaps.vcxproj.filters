@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\encryptor">
+      <UniqueIdentifier>{995ef4cf-4378-4bb1-8b24-4115d5a3a6b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\walker">
+      <UniqueIdentifier>{8059ee35-13a7-4654-8d49-2913552fddf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ransomenote">
+      <UniqueIdentifier>{73e77245-77b9-46f1-a05b-16332ec82268}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\xor_decoder">
+      <UniqueIdentifier>{dfd0ce99-1caa-4a22-8d44-9448133aaa43}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main_encryptor.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="encryptor.c">
+      <Filter>소스 파일\encryptor</Filter>
+    </ClCompile>
+    <ClCompile Include="walker.c">
+      <Filter>소스 파일\walker</Filter>
+    </ClCompile>
+    <ClCompile Include="ransomenote.c">
+      <Filter>소스 파일\ransomenote</Filter>
+    </ClCompile>
+    <ClCompile Include="xor_decoder.c">
+      <Filter>소스 파일\xor_decoder</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="encryptor.h">
+      <Filter>소스 파일\encryptor</Filter>
+    </ClInclude>
+    <ClInclude Include="walker.h">
+      <Filter>소스 파일\walker</Filter>
+    </ClInclude>
+    <ClInclude Include="ransomenote.h">
+      <Filter>소스 파일\ransomenote</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="xor_decoder.h">
+      <Filter>소스 파일\xor_decoder</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="encryptor.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

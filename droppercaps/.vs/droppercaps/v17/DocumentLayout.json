@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B43185B2-939F-4898-8CD8-06FF3E590BB9}|droppercaps\\droppercaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\dropper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B43185B2-939F-4898-8CD8-06FF3E590BB9}|droppercaps\\droppercaps.vcxproj|solutionrelative:droppercaps\\dropper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43185B2-939F-4898-8CD8-06FF3E590BB9}|droppercaps\\droppercaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\Dropper.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B43185B2-939F-4898-8CD8-06FF3E590BB9}|droppercaps\\droppercaps.vcxproj|solutionrelative:droppercaps\\Dropper.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43185B2-939F-4898-8CD8-06FF3E590BB9}|droppercaps\\droppercaps.vcxproj|C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\resource1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B43185B2-939F-4898-8CD8-06FF3E590BB9}|droppercaps\\droppercaps.vcxproj|solutionrelative:droppercaps\\resource1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "resource1.h",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\resource1.h",
+              "RelativeDocumentMoniker": "droppercaps\\resource1.h",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\resource1.h",
+              "RelativeToolTip": "droppercaps\\resource1.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T14:25:56.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dropper.rc",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\Dropper.rc",
+              "RelativeDocumentMoniker": "droppercaps\\Dropper.rc",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\Dropper.rc",
+              "RelativeToolTip": "droppercaps\\Dropper.rc",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-01T13:19:42.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dropper.cpp",
+              "DocumentMoniker": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\dropper.cpp",
+              "RelativeDocumentMoniker": "droppercaps\\dropper.cpp",
+              "ToolTip": "C:\\Users\\geunh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\capsrepos-caps\\droppercaps\\droppercaps\\dropper.cpp",
+              "RelativeToolTip": "droppercaps\\dropper.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAgwGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T13:08:56.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
